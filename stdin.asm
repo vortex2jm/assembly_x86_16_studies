@@ -1,3 +1,4 @@
+;Programa para ler um caracter do teclado e imprimi-lo
 org  0x100
 
 section .text
